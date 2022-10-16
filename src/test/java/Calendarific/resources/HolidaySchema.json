@@ -1,0 +1,90 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "code"
+      ]
+    },
+    "response": {
+      "type": "object",
+      "properties": {
+        "holidays": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                },
+                "date": {
+                  "type": "object",
+                  "properties": {
+                    "iso": {
+                      "type": "string"
+                    },
+                    "datetime": {
+                      "type": "object",
+                      "properties": {
+                        "year": {
+                          "type": "integer"
+                        },
+                        "month": {
+                          "type": "integer"
+                        },
+                        "day": {
+                          "type": "integer"
+                        }
+                      },
+                      "required": [
+                        "year",
+                        "month",
+                        "day"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "iso",
+                    "datetime"
+                  ]
+                },
+                "type": {
+                  "type": "array",
+                  "items": [
+                    {
+                      "type": "string"
+                    }
+                  ]
+                }
+              },
+              "required": [
+                "name",
+                "description",
+                "date",
+                "type"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "holidays"
+      ]
+    }
+  },
+  "required": [
+    "meta",
+    "response"
+  ]
+}

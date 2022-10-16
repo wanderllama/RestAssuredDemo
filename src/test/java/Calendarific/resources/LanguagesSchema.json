@@ -1,0 +1,1064 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "code"
+      ]
+    },
+    "response": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "languages": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "code": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                },
+                "nativeName": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "code",
+                "name",
+                "nativeName"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "url",
+        "languages"
+      ]
+    }
+  },
+  "required": [
+    "meta",
+    "response"
+  ]
+}

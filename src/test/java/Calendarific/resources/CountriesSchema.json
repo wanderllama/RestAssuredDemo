@@ -1,0 +1,6248 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "meta": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "code"
+      ]
+    },
+    "response": {
+      "type": "object",
+      "properties": {
+        "url": {
+          "type": "string"
+        },
+        "countries": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            },
+            {
+              "type": "object",
+              "properties": {
+                "country_name": {
+                  "type": "string"
+                },
+                "iso-3166": {
+                  "type": "string"
+                },
+                "total_holidays": {
+                  "type": "integer"
+                },
+                "supported_languages": {
+                  "type": "integer"
+                },
+                "uuid": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "country_name",
+                "iso-3166",
+                "total_holidays",
+                "supported_languages",
+                "uuid"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "url",
+        "countries"
+      ]
+    }
+  },
+  "required": [
+    "meta",
+    "response"
+  ]
+}
